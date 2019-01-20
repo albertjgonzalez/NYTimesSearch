@@ -1,1 +1,2 @@
 # NYTimesSearch
+NYT web scraper
